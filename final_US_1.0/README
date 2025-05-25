@@ -1,6 +1,7 @@
 2025/05/25
 
-注意! In cell 5, csv filename has to be changed for each sector, e.g. "sentiment_data/Basic Materials_sentiments.csv"
+注意! In cell 5, csv filename has to be changed for each sector,
+e.g. "sentiment_data/Basic Materials_sentiments.csv"
 
 This directory contains:
 
