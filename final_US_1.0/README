@@ -1,0 +1,9 @@
+2025/05/25
+
+注意! In cell 5, csv filename has to be changed for each sector, e.g. "sentiment_data/Basic Materials_sentiments.csv"
+
+This directory contains:
+
+sector_models_2: folder with 11 joblib files, one model for each sector
+sentiment_data: folder with 11 csv files, one sentiment data file for each sector
+final_run_model_1.0: script that takes sentiment data csv and user input ticker name, returns results.
